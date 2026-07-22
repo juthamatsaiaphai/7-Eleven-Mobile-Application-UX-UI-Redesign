@@ -66,10 +66,7 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ### Main Screens
 | Splash Screen | Home Screen | Main Dashboard |
 | :---: | :---: | :---: |
-| <img width="315" height="675" alt="Screenshot 2026-07-22 125617" src="https://github.com/user-attachments/assets/29fabd7d-49be-43bb-b8e5-941cd66a8e4e" />
- width="200"> | <img width="317" height="648" alt="Screenshot 2026-07-22 125649" src="https://github.com/user-attachments/assets/2afbe075-38ee-4273-8c83-c3768dffbc6f" />
- width="200"> | <img width="300" height="647" alt="Screenshot 2026-07-22 125730" src="https://github.com/user-attachments/assets/c9d08116-c17c-41f6-9d87-aed50b621e8c" />
- width="200"> |
+| <img src="https://github.com/user-attachments/assets/29fabd7d-49be-43bb-b8e5-941cd66a8e4e" width="200" alt="Splash Screen"> | <img src="https://github.com/user-attachments/assets/2afbe075-38ee-4273-8c83-c3768dffbc6f" width="200" alt="Home Screen"> | <img src="https://github.com/user-attachments/assets/c9d08116-c17c-41f6-9d87-aed50b621e8c" width="200" alt="Main Dashboard"> |
 
 ### Product & Shopping
 | Product List | Product Details | Cart Overview |
