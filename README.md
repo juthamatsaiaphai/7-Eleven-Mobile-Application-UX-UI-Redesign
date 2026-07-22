@@ -42,10 +42,9 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ### Brand Logo & Fonts
 | Logo | Typography |
 | :---: | :---: |
-| <img width="188" height="335" alt="Screenshot 2026-07-22 124535" src="https://github.com/user-attachments/assets/d2f8d189-ddc4-46cc-aa3e-f9c84337841b" />
- |<img width="347" height="622" alt="Screenshot 2026-07-22 124619" src="https://github.com/user-attachments/assets/f39ee3e0-b10e-4b1b-bf07-6ee9a9b27e68" />
- <br> **Primary Font:** Outfit |
-
+| <img width="345" height="642" alt="Screenshot 2026-07-22 124826" src="https://github.com/user-attachments/assets/887d75a3-e18b-4c66-9b08-3103d6a9b9ac" />
+ width="200" alt="Logo"> | <img width="347" height="622" alt="Screenshot 2026-07-22 124619" src="https://github.com/user-attachments/assets/c06b7fcb-630f-435b-a02f-d69c446cf93c" />
+ width="300" alt="Fonts"> <br> **Primary Font:** Outfit |
 ---
 
 ### Color Palette
