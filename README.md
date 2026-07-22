@@ -71,7 +71,11 @@ This project focuses on redesigning the user experience (UX) and user interface 
 | :---: | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/eb11ec67-c922-4190-a059-2507bd091168" width="200" alt="Checkout"> | <img src="https://github.com/user-attachments/assets/f8b3498b-9eaf-471e-94fb-959d314dcd1c" width="200" alt="Order Confirmation"> | <img src="https://github.com/user-attachments/assets/f1be1fa8-a9c0-4a53-a3cb-2da0683eaaaa" width="200" alt="Order History"> | <img src="https://github.com/user-attachments/assets/11489fcf-4cc5-4c56-b4b4-ff8f735244fa" width="200" alt="Success"> |
 ---
+## 🔗 Figma Design
 
+[![Figma](https://img.shields.io/badge/Figma_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/6qoJImgPMad6hWYwSVJwXv/7-11?node-id=1-3&m=dev&t=BmJQRbM9vs11goXb-1)
+
+---
 ## Key Improvements
 
 - Simplified application navigation.
