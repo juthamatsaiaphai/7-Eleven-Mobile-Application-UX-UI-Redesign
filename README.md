@@ -50,11 +50,8 @@ This project focuses on redesigning the user experience (UX) and user interface 
 | `#007846` | `#4A4A4A` | `#FF5000` | `#E60012` | `#FFFFFF` |
 
 ---
-
 ### App Icons
-<img width="330" height="618" alt="Screenshot 2026-07-22 125127" src="https://github.com/user-attachments/assets/07478e7a-caad-48ad-a9c1-b43a3b689c77" />
-
-
+<img src="https://github.com/user-attachments/assets/07478e7a-caad-48ad-a9c1-b43a3b689c77" width="150" alt="App Icons">
 ---
 
 ## 📱 User Interface (UI Screens)
