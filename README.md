@@ -39,11 +39,9 @@ This project focuses on redesigning the user experience (UX) and user interface 
 
 ## 🎨 Design System
 
-### Logo
-<img src="https://github.com/user-attachments/assets/4666512e-9722-4e28-8d46-e815248dd6eb" width="250" alt="Logo">
-
-### Fonts
-<img src="https://github.com/user-attachments/assets/c8179348-c1d6-463f-9193-8444bece2ba0" width="300" alt="Fonts">
+| Logo | Fonts |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/4666512e-9722-4e28-8d46-e815248dd6eb" width="250" alt="Logo"> | <img src="https://github.com/user-attachments/assets/c8179348-c1d6-463f-9193-8444bece2ba0" width="300" alt="Fonts"> |
 ---
 
 ### Color Palette
