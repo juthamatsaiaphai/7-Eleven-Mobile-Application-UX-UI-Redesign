@@ -56,7 +56,8 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ---
 
 ### App Icons
-<img src="YOUR_IMAGE_PATH/icons.png" width="500" alt="App Icons">
+<img width="330" height="618" alt="Screenshot 2026-07-22 125127" src="https://github.com/user-attachments/assets/07478e7a-caad-48ad-a9c1-b43a3b689c77" />
+
 
 ---
 
