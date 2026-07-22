@@ -76,7 +76,7 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ### Checkout & Success
 | Checkout | Order Confirmation | Order History | Success |
 | :---: | :---: | :---: | :---: |
-| <img src="YOUR_IMAGE_PATH/screen7.png" width="200"> | <img src="YOUR_IMAGE_PATH/screen8.png" width="200"> | <img src="YOUR_IMAGE_PATH/screen9.png" width="200"> | <img src="YOUR_IMAGE_PATH/screen10.png" width="200"> |
+| <img src="https://github.com/user-attachments/assets/eb11ec67-c922-4190-a059-2507bd091168" width="200" alt="Checkout"> | <img src="https://github.com/user-attachments/assets/f8b3498b-9eaf-471e-94fb-959d314dcd1c" width="200" alt="Order Confirmation"> | <img src="https://github.com/user-attachments/assets/f1be1fa8-a9c0-4a53-a3cb-2da0683eaaaa" width="200" alt="Order History"> | <img src="https://github.com/user-attachments/assets/11489fcf-4cc5-4c56-b4b4-ff8f735244fa" width="200" alt="Success"> |
 ---
 
 ## Key Improvements
