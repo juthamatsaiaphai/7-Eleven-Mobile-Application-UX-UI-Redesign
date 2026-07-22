@@ -71,8 +71,7 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ### Product & Shopping
 | Product List | Product Details | Cart Overview |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c23326bc-84e0-4df7-8a5f-5fabc649ec57" width="200" alt="Product List"> | <img src="https://github.com/user-attachments/assets/2f8fe638-5952-4185-9ea9-52be828a9c69" width="200" alt="Product Details"> | <img width="312" height="653" alt="Screenshot 2026-07-22 131954" src="https://github.com/user-attachments/assets/5320e471-bdbc-4373-88cc-e7349eab451d" />
-" width="200" alt="Cart Overview"> |
+| <img src="https://github.com/user-attachments/assets/c23326bc-84e0-4df7-8a5f-5fabc649ec57" width="200" alt="Product List"> | <img src="https://github.com/user-attachments/assets/2f8fe638-5952-4185-9ea9-52be828a9c69" width="200" alt="Product Details"> | <img src="https://github.com/user-attachments/assets/5320e471-bdbc-4373-88cc-e7349eab451d" width="200" alt="Cart Overview"> |
 
 ### Checkout & Success
 | Checkout | Order Confirmation | Order History | Success |
