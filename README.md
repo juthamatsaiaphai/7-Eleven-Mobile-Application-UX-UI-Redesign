@@ -40,12 +40,10 @@ This project focuses on redesigning the user experience (UX) and user interface 
 ## 🎨 Design System
 
 ### Logo
-<img width="345" height="642" alt="Screenshot 2026-07-22 124826" src="https://github.com/user-attachments/assets/4666512e-9722-4e28-8d46-e815248dd6eb" />
-
+<img src="https://github.com/user-attachments/assets/4666512e-9722-4e28-8d46-e815248dd6eb" width="250" alt="Logo">
 
 ### Fonts
-<img width="347" height="622" alt="Screenshot 2026-07-22 124619" src="https://github.com/user-attachments/assets/c8179348-c1d6-463f-9193-8444bece2ba0" />
-
+<img src="https://github.com/user-attachments/assets/c8179348-c1d6-463f-9193-8444bece2ba0" width="300" alt="Fonts">
 ---
 
 ### Color Palette
@@ -102,30 +100,6 @@ This project focuses on redesigning the user experience (UX) and user interface 
 - Problem Solving
 
 ---
-
-## Repository Structure
-
-```text
-7-Eleven-Mobile-Application-UXUI-Redesign
-│
-├── README.md
-├── Images
-│   ├── UserResearch.png
-│   ├── Persona.png
-│   ├── UserJourney.png
-│   ├── Wireframe.png
-│   ├── UIPrototype.png
-│   └── FlutterFlow.png
-│
-├── Figma
-│   └── DesignFile.fig
-│
-├── FlutterFlow
-│   └── Prototype.pdf
-│
-└── Documents
-    └── Project_Report.pdf
-```
 
 ---
 
