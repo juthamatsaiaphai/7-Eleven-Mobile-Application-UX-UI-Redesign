@@ -94,7 +94,6 @@ This project focuses on redesigning the user experience (UX) and user interface 
 - Usability Analysis
 - Problem Solving
 
----
 
 ---
 
